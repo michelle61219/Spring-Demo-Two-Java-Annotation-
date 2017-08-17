@@ -63,6 +63,5 @@
 	<classpathentry kind="lib" path="lib/spring-websocket-4.3.9.RELEASE-javadoc.jar"/>
 	<classpathentry kind="lib" path="lib/spring-websocket-4.3.9.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="lib/spring-websocket-4.3.9.RELEASE.jar"/>
-	<classpathentry kind="lib" path="fortune-data"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
